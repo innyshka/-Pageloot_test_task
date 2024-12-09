@@ -1,0 +1,59 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Local settings
+.env
+.env.*
+config/settings/local.py
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+
+# Byte-compiled
+*.py[co]
+
+# Coverage reports
+.coverage
+htmlcov/
+*.cover
+
+# Logs
+*.log
+
+# Media and Static files
+media/
+static/
+
+# Database
+*.sqlite3
+
+# Swagger and Documentation
+*.html
+
+# Testing
+.tox/
+.nox/
+.pytest_cache/
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
